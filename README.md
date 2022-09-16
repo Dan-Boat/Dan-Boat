@@ -1,5 +1,5 @@
 ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
-<h1 align="center">Hi 👋, I am Baoteng Daniel</h1>
+<h1 align="center">Hi 👋, I am Boateng Daniel</h1>
 <h3 align="center">A PhD Student | Scientific Software developer | full-stack engineer | Data Scientist</h3>
 <h4 align="center"> Research: Climate-tectonics interactions :mountain: | Empirical Statistical Climate information Downscaling :earth_africa:| Climate Dynamics | Paleoclimate modeling :mountain_snow: :earth_africa: <br>
 
