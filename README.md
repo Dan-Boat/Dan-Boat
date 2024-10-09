@@ -1,5 +1,5 @@
 ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
-<h1 align="center">Hi 👋, I am Boateng Daniel (PhD)</h1>
+<h1 align="center">Hi 👋, I am Dr. Boateng Daniel (PhD)</h1>
 <h3 align="center">A PostDoc | Scientific Software developer | Data engineer | Data Scientist (ML engineer)</h3>
 <h4 align="center"> Research: Climate-tectonics interactions :mountain: | Empirical Statistical Climate information Downscaling :earth_africa:| Climate Dynamics | Paleoclimate modeling with Isotope-enabled GCM:mountain_snow: :earth_africa: <br>
 
@@ -11,7 +11,7 @@
 
 - :pencil: I'm currently developing statistical downscaling model [PyESD](https://github.com/Dan-Boat/PyESD) and [pyClimat](https://github.com/Dan-Boat/pyClimat)
 
-- :chart_with_upwards_trend: I’m currently learning **AI engineering, MLDevOps, Cloud engineering**
+- :chart_with_upwards_trend: I’m currently learning **AI engineering, MLDevOps, Cloud engineering, Data engineering**
 
 - 👯 I’m looking to collaborate on [PyESD](https://github.com/Dan-Boat/PyESD) and [pyClimat](https://github.com/Dan-Boat/pyClimat)
 
@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I think I'm nice Guy who loves Science and Tech!**
 
-- :pushpin: I am very passionate about learning new things just because I'm a fast learner..lol (well check my diverse background)
+- :pushpin: I am very passionate about learning new things just because I'm a fast learner..lol (Well, from subsurface (BSc) to atmospheric physics (PhD) tells the story)
 
 
 <h3 align="left">Connect with me:</h3>
